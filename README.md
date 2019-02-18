@@ -11,4 +11,4 @@
 <li><a href="https://github.com/DanMus95">Личная страница</a><br>
 <li><a href="https://github.com/DanMus95/DanMus95.github.io">Личный репозиторий</a><br>
 <li><a href="https://github.com/DanMus95/DanMus95.github.io/wiki">WiKi</a><br>
-<li><a href="https://DanMus95.github.io ">index</a></ol><br>
+<li><a href="https://DanMus95.github.io/index.html ">index</a></ol><br>
