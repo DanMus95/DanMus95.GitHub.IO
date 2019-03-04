@@ -9,9 +9,9 @@
 }
 
 canvas {
-    position: absolute;
+    position: fixed;
     left: 270px;
-    top: 140px;
+    top: 90px;
     border:1px solid #d3d3d3;
     background-color: #aaa;
 }
